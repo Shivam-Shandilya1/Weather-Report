@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/Shivam-Shandilya1/Weather-Report/issues"
   },
-  "homepage": "https://github.com/Shivam-Shandilya1/Weather-Report#readme"
+  "homepage": "https://github.com/Shivam-Shandilya1/Weather-Report#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
