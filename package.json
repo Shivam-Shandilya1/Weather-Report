@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/Shivam-Shandilya1/Weather-Report#readme",
   "dependencies": {
+    "body-parse": "^0.1.0",
     "express": "^4.17.1"
   }
 }
